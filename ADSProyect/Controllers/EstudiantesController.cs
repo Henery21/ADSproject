@@ -49,7 +49,7 @@ namespace ADSProyect.Controllers
             }
         }
 
-        [HttpPost("actualizarEstudiante/{idEstudiante}")]
+        [HttpPut("actualizarEstudiante/{idEstudiante}")]
         public ActionResult<string> ActualizarEstudiante(int idEstudiante, [FromBody] Estudiante estudiante)
         {
             try

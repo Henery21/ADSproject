@@ -45,7 +45,7 @@ namespace ADSProyect.Controllers
             }
         }
 
-        [HttpPost("ActualizarCarrera/{IdCarrera}")]
+        [HttpPut("ActualizarCarrera/{IdCarrera}")]
         public ActionResult<string> ActualizarEstudiante(int IdCarrera, [FromBody] Carrera carrera)
         {
             try
