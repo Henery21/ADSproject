@@ -4,6 +4,7 @@
     "\\ADSProyect",
     "\\ADSProyect\\Controllers",
     "\\ADSProyect\\Interfaces",
+    "\\ADSProyect\\Models",
     "\\ADSProyect\\Repositories"
   ],
   "SelectedNode": "\\ADSProyect\\Controllers\\EstudiantesController.cs",

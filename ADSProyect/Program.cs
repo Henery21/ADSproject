@@ -16,6 +16,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IEstudiante, EstudianteRepository>();
 
 builder.Services.AddSingleton<ICarrera , CarreraRepository>();
+builder.Services.AddSingleton<IMateriaRepositorio, MateriaRepositorio>();
+builder.Services.AddSingleton<IProfesorRepositorio, ProfesorRepositorio>();
+builder.Services.AddSingleton<IGrupoRepositorio, GrupoRepositorio>();
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.
