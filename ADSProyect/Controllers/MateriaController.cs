@@ -11,9 +11,9 @@ namespace ADSProjectBackend.Controllers
     [ApiController]
     public class MateriaController : ControllerBase
     {
-        private readonly IMateriar materiaRepositorio;
+        private readonly IMateria materiaRepositorio;
 
-        public MateriaController(IMateriar materiaRepositorio)
+        public MateriaController(IMateria materiaRepositorio)
         {
             this.materiaRepositorio = materiaRepositorio;
         }
@@ -22,6 +22,10 @@ namespace ADSProjectBackend.Controllers
         [HttpPost("insertarMateria")]
         public ActionResult<int> InsertarMateria(Materia value)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var valor = materiaRepositorio.InsertarMateria(value);
             if (valor > 0)
             {
@@ -39,13 +43,13 @@ namespace ADSProjectBackend.Controllers
         public ActionResult<List<Materia>> ObtenerMaterias()
         {
             var valor = materiaRepositorio.ObtenerListaMaterias();
-            if (valor.Count > 0)
+            if (valor.Count <= 0)
             {
-                return Ok(valor);
+                return NoContent();
             }
             else
             {
-                return NoContent();
+                return Ok(valor);
             }
         }
 
@@ -81,6 +85,10 @@ namespace ADSProjectBackend.Controllers
         [HttpPatch("actualizarMateria/")]
         public ActionResult<int> ActualizarMateria(int id, [FromBody] Materia value)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var valor = materiaRepositorio.ModificarMateria(id, value);
             if (valor > 0)
             {

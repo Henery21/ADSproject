@@ -3,7 +3,7 @@ using ADSProjectBackend.Repositories.Interfaces;
 
 namespace ADSProjectBackend.Repositories
 {
-    public class MateriaRepository : IMateriar
+    public class MateriaRepository : IMateria
     {
         private List<Materia> lstMaterias;
 

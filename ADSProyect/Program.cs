@@ -1,3 +1,5 @@
+using ADSProjectBackend.Repositories;
+using ADSProjectBackend.Repositories.Interfaces;
 using ADSProyect.Interfaces;
 using ADSProyect.RepoActualizarEstudiantesitories;
 using ADSProyect.Repositories;
