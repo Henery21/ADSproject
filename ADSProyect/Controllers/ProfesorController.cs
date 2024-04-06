@@ -23,6 +23,11 @@ namespace ADSProjectBackend.Controllers
         [HttpPost("insertarProfesor")]
         public ActionResult<int> InsertarProfesor(Profesor value)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            
             var valor = profesorRepositorio.InsertarProfesor(value);
 
             if (valor > 0)
@@ -83,6 +88,10 @@ namespace ADSProjectBackend.Controllers
         [HttpPatch("actualizarProfesor/")]
         public ActionResult<int> ActualizarProfesor(int id, [FromBody] Profesor value)
         {
+             if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var valor = profesorRepositorio.ModificarProfesor(id, value);
             if (valor > 0)
             {
