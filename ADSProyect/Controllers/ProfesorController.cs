@@ -12,9 +12,9 @@ namespace ADSProjectBackend.Controllers
     [ApiController]
     public class ProfesorController : ControllerBase
     {
-        private readonly IProfesorRepositorio profesorRepositorio;
+        private readonly IProfesor profesorRepositorio;
 
-        public ProfesorController(IProfesorRepositorio profesorRepositorio)
+        public ProfesorController(IProfesor profesorRepositorio)
         {
             this.profesorRepositorio = profesorRepositorio;
         }

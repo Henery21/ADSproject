@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|c:\\users\\kike\\desktop\\analisisdesistemas\\labanalisis\\adsproyect\\adsproyect\\controllers\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|solutionrelative:adsproyect\\controllers\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|c:\\users\\kike\\desktop\\analisisdesistemas\\labanalisis\\adsproyect\\adsproyect\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|solutionrelative:adsproyect\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|c:\\users\\kike\\desktop\\analisisdesistemas\\labanalisis\\adsproyect\\adsproyect\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|solutionrelative:adsproyect\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|c:\\users\\kike\\desktop\\analisisdesistemas\\labanalisis\\adsproyect\\adsproyect\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|solutionrelative:adsproyect\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|c:\\users\\kike\\desktop\\analisisdesistemas\\labanalisis\\adsproyect\\adsproyect\\interfaces\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|solutionrelative:adsproyect\\interfaces\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\adsproyect\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|solutionrelative:adsproyect\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BD23CE1-100F-4593-9D67-AAC992E8A40D}|ADSProyect\\ADSProyect.csproj|C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Program.cs",
               "RelativeDocumentMoniker": "ADSProyect\\Program.cs",
@@ -39,46 +43,32 @@
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T17:03:07.204Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EstudiantesController.cs",
-              "DocumentMoniker": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Controllers\\EstudiantesController.cs",
-              "RelativeDocumentMoniker": "ADSProyect\\Controllers\\EstudiantesController.cs",
-              "ToolTip": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Controllers\\EstudiantesController.cs",
-              "RelativeToolTip": "ADSProyect\\Controllers\\EstudiantesController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAwEIAAAANAAAA",
+              "Title": "CarreraController.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Controllers\\CarreraController.cs",
+              "RelativeDocumentMoniker": "ADSProyect\\Controllers\\CarreraController.cs",
+              "ToolTip": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Controllers\\CarreraController.cs",
+              "RelativeToolTip": "ADSProyect\\Controllers\\CarreraController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowD0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T17:20:14.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Models\\Estudiante.cs",
-              "RelativeDocumentMoniker": "ADSProyect\\Models\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Models\\Estudiante.cs",
-              "RelativeToolTip": "ADSProyect\\Models\\Estudiante.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T17:13:38.072Z",
+              "WhenOpened": "2024-04-06T17:36:19.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IEstudiante.cs",
-              "DocumentMoniker": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Interfaces\\IEstudiante.cs",
-              "RelativeDocumentMoniker": "ADSProyect\\Interfaces\\IEstudiante.cs",
-              "ToolTip": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Interfaces\\IEstudiante.cs",
-              "RelativeToolTip": "ADSProyect\\Interfaces\\IEstudiante.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Models\\Carrera.cs",
+              "RelativeDocumentMoniker": "ADSProyect\\Models\\Carrera.cs",
+              "ToolTip": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Models\\Carrera.cs",
+              "RelativeToolTip": "ADSProyect\\Models\\Carrera.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T17:12:50.061Z",
+              "WhenOpened": "2024-04-06T17:30:06.987Z",
               "EditorCaption": ""
             },
             {
@@ -92,6 +82,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "ADSProyect\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "ADSProyect\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:20:14.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ADSProyect\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\Models\\Estudiante.cs",
+              "RelativeToolTip": "ADSProyect\\Models\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:13:38.072Z",
+              "EditorCaption": ""
             }
           ]
         }

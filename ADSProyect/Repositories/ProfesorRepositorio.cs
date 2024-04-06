@@ -3,7 +3,7 @@ using ADSProjectBackend.Repositories.Interfaces;
 
 namespace ADSProjectBackend.Repositories
 {
-    public class ProfesorRepositorio : IProfesorRepositorio
+    public class ProfesorRepositorio : IProfesor
     {
         private List<Profesor> lstProfesores;
         public ProfesorRepositorio()

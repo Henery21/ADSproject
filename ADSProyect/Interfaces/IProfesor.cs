@@ -2,7 +2,7 @@
 
 namespace ADSProjectBackend.Repositories.Interfaces
 {
-    public interface IProfesorRepositorio
+    public interface IProfesor
     {
         int InsertarProfesor(Profesor value);
         int ModificarProfesor(int idValue, Profesor value);

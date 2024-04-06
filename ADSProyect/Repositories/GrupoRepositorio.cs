@@ -3,7 +3,7 @@ using ADSProjectBackend.Repositories.Interfaces;
 
 namespace ADSProjectBackend.Repositories
 {
-    public class GrupoRepositorio : IGrupoRepositorio
+    public class GrupoRepositorio : IGrupo
     {
         private List<Grupo> lstGrupos;
         public GrupoRepositorio()

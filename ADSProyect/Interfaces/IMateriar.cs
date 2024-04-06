@@ -2,7 +2,7 @@
 
 namespace ADSProjectBackend.Repositories.Interfaces
 {
-    public interface IMateriaRepositorio
+    public interface IMateriar
     {
         int InsertarMateria(Materia value);
         int ModificarMateria(int idValue, Materia value);

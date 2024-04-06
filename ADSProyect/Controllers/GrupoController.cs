@@ -11,9 +11,9 @@ namespace ADSProjectBackend.Controllers
     [ApiController]
     public class GrupoController : ControllerBase
     {
-        private readonly IGrupoRepositorio grupoRepositorio;
+        private readonly IGrupo grupoRepositorio;
 
-        public GrupoController(IGrupoRepositorio pGrupoRepositorio)
+        public GrupoController(IGrupo pGrupoRepositorio)
         {
             this.grupoRepositorio = pGrupoRepositorio;
         }

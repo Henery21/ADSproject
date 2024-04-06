@@ -11,9 +11,9 @@ namespace ADSProjectBackend.Controllers
     [ApiController]
     public class MateriaController : ControllerBase
     {
-        private readonly IMateriaRepositorio materiaRepositorio;
+        private readonly IMateriar materiaRepositorio;
 
-        public MateriaController(IMateriaRepositorio materiaRepositorio)
+        public MateriaController(IMateriar materiaRepositorio)
         {
             this.materiaRepositorio = materiaRepositorio;
         }
