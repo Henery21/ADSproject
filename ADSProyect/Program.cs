@@ -16,7 +16,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IEstudiante, EstudianteRepository>();
 
 builder.Services.AddSingleton<ICarrera , CarreraRepository>();
-builder.Services.AddSingleton<IMateriaRepositorio, MateriaRepositorio>();
+builder.Services.AddSingleton<IMateriaRepositorio, MateriaRepository>();
 builder.Services.AddSingleton<IProfesorRepositorio, ProfesorRepositorio>();
 builder.Services.AddSingleton<IGrupoRepositorio, GrupoRepositorio>();
 

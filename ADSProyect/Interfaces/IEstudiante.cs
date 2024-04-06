@@ -1,4 +1,5 @@
 ﻿using ADSProyect.Models;
+using System.ComponentModel.DataAnnotations;
 
 namespace ADSProyect.Interfaces
 {

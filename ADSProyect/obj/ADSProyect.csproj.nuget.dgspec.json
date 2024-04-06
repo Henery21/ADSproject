@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kike\\Desktop\\Desarrollode software\\LabDesarrollo\\ADSProyect\\ADSProyect\\ADSProyect.csproj": {}
+    "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\ADSProyect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kike\\Desktop\\Desarrollode software\\LabDesarrollo\\ADSProyect\\ADSProyect\\ADSProyect.csproj": {
+    "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\ADSProyect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kike\\Desktop\\Desarrollode software\\LabDesarrollo\\ADSProyect\\ADSProyect\\ADSProyect.csproj",
+        "projectUniqueName": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\ADSProyect.csproj",
         "projectName": "ADSProyect",
-        "projectPath": "C:\\Users\\Kike\\Desktop\\Desarrollode software\\LabDesarrollo\\ADSProyect\\ADSProyect\\ADSProyect.csproj",
+        "projectPath": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\ADSProyect.csproj",
         "packagesPath": "C:\\Users\\Kike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kike\\Desktop\\Desarrollode software\\LabDesarrollo\\ADSProyect\\ADSProyect\\obj\\",
+        "outputPath": "C:\\Users\\Kike\\Desktop\\analisisdesistemas\\LabAnalisis\\ADSProyect\\ADSProyect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kike\\AppData\\Roaming\\NuGet\\NuGet.Config",

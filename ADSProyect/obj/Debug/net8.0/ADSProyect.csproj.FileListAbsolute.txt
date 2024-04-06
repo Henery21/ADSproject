@@ -30,3 +30,14 @@ C:\Users\Kike\Desktop\Desarrollode software\LabDesarrollo\ADSProyect\ADSProyect\
 C:\Users\Kike\Desktop\Desarrollode software\LabDesarrollo\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.pdb
 C:\Users\Kike\Desktop\Desarrollode software\LabDesarrollo\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.genruntimeconfig.cache
 C:\Users\Kike\Desktop\Desarrollode software\LabDesarrollo\ADSProyect\ADSProyect\obj\Debug\net8.0\ref\ADSProyect.dll
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.csproj.AssemblyReference.cache
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.AssemblyInfoInputs.cache
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.AssemblyInfo.cs
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.csproj.CoreCompileInputs.cache
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.sourcelink.json
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.dll
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\refint\ADSProyect.dll
+C:\Users\Kike\Desktop\analisisdesistemas\LabAnalisis\ADSProyect\ADSProyect\obj\Debug\net8.0\ADSProyect.pdb
